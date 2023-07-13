@@ -466,6 +466,53 @@ ul {
 
 /* ---------- /card area style ----------- */
 
+/* ---------- recent work style ----------- */
+#site-main .recent-work-area .images-flex .flex-item {
+    width: 270px;
+    margin-bottom: 50px;
+}
+
+#site-main .recent-work-area .images-flex {
+    margin: auto;
+}
+
+#site-main .title .left-margin {
+    margin-left: 10%;
+}
+
+#site-main .title .left {
+    margin-left: 10%;
+    margin-bottom: 2em;
+}
+
+#site-main .container-rwa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#site-main .container-rwa .box-rwa {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+#site-main .container-rwa .box-rwa .images {
+    display: flex;
+    flex-direction: column;
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
+}
+
+#site-main .container-rwa .box-rwa .images img {
+    width: 300px;
+    border-radius: 5px;
+    margin-block: 1.5rem;
+}
+
+/* ---------- /recent work style ----------- */
+
 
 
 
