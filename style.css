@@ -525,7 +525,14 @@ ul {
 
 /* ---------- /article area style ----------- */
 
+/* ---------- ready area style ----------- */
 
+#site-main .ready-area>.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* ---------- /ready area style ----------- */
 
 
 
