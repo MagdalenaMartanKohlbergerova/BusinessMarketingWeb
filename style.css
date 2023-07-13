@@ -316,6 +316,51 @@ ul {
 
 /* ---------- /Navigation Style ----------- */
 
+/* ---------- banner area style ----------- */
+
+#site-main .banner-area {
+    width: 100%;
+    position: relative;
+}
+
+
+#site-main .banner-area .banner-title {
+    height: 95vh;
+    padding-top: 6rem;
+    padding-left: 10%;
+    margin-block-start: 5em;
+}
+
+#site-main .branding {
+    background-color: #ffffff50;
+}
+
+#site-main .title>span {
+    margin: 0.5rem;
+}
+
+.branding>span {
+    margin-top: -0.4em;
+}
+
+.grid-container {
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 10px;
+}
+
+.main-image {
+    background-image: var(--bg-cover);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 280px;
+    position: absolute;
+    right: 6%;
+    z-index: -3;
+}
+
+/* ---------- /banner area style ----------- */
+
 
 
 
