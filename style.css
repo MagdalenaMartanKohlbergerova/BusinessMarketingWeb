@@ -456,6 +456,16 @@ ul {
 
 /* ---------- /counting area style ----------- */
 
+/* ---------- card area style ----------- */
+
+#site-main .card-area .grid {
+    column-gap: 2em;
+    row-gap: 1em;
+    margin: 2em;
+}
+
+/* ---------- /card area style ----------- */
+
 
 
 
