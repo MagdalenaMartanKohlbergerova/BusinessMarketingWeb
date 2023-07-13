@@ -10,4 +10,7 @@ window.onload = function digital_fn(){}
            // console.log(toggle)
         });
 
-        let grid = document.querySelector("#site-main .recent-work-area .images-flex")
+    // rellax js code 
+var rellax = new Rellax ('.rellax',{
+    center : true
+})
