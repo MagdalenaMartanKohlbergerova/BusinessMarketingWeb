@@ -513,6 +513,20 @@ ul {
 
 /* ---------- /recent work style ----------- */
 
+/* ---------- article area style ----------- */
+
+#site-main .article-area>.flex-area {
+    column-gap: 3em;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10%;
+    margin-top: 0%;
+}
+
+/* ---------- /article area style ----------- */
+
+
+
 
 
 
